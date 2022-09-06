@@ -1,4 +1,8 @@
 # GSoC
-Google Summer of Code
+Google Summer of Code 2022 
 
-This repository has all my scrips for GSoC.
+Final Report
+
+INCF GSoC 2022 1.1. Implementation of White Matter Substrates in Disimpy
+
+
