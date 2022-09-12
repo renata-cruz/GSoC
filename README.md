@@ -3,7 +3,7 @@
 
 ## Summary 
 
-During the GSoC 2022 program, I implemented an algrithm to simulate white matter substrates in Disimpy, an open-source Python package for generating diffusion MRI data. Due to time restrictions, I could not achive all the goals described in my initial [project proposal](https://github.com/renata-cruz/GSoC/blob/d8b7bb829b809203a9f2ca79f44553e454592ec9/GSoC_ProjectProposal.pdf) yet I will continue to work on this project even as GSoC comes to an end. In addition to the documented code found in this [Pull Request], the following [Jupyter Notebook](https://github.com/renata-cruz/GSoC/blob/d8b7bb829b809203a9f2ca79f44553e454592ec9/GSoC2022_Disimpy_WM_Substrates.ipynb) contains the script and further results on which I worked during the coding period. Finally, altough the project will continue to be developed, the code written specifially for this program will be archived [here] and will not suffer any further modifications.
+During the GSoC 2022 program, I implemented an algrithm to simulate white matter substrates in Disimpy, an open-source Python package for generating diffusion MRI data. Due to time restrictions, I could not achive all the goals described in my initial [project proposal](https://github.com/renata-cruz/GSoC/blob/d8b7bb829b809203a9f2ca79f44553e454592ec9/GSoC_ProjectProposal.pdf) yet I will continue to work on this project even as GSoC comes to an end. In addition to the documented code found in this [Pull Request](https://github.com/kerkelae/disimpy/pull/16#issue-1321589071), the following [Jupyter Notebook](https://github.com/renata-cruz/GSoC/blob/d8b7bb829b809203a9f2ca79f44553e454592ec9/GSoC2022_Disimpy_WM_Substrates.ipynb) contains the script and further results on which I worked during the coding period. Finally, altough the project will continue to be developed, the code written specifially for this program will be archived [here] and will not suffer any further modifications.
 
 
 ## What Was Done
@@ -22,7 +22,7 @@ During the GSoC 2022 program, I implemented an algrithm to simulate white matter
 
 - [Project Proposal](https://github.com/renata-cruz/GSoC/blob/d8b7bb829b809203a9f2ca79f44553e454592ec9/GSoC_ProjectProposal.pdf)
 - [Jupyter Notebook](https://github.com/renata-cruz/GSoC/blob/d8b7bb829b809203a9f2ca79f44553e454592ec9/GSoC2022_Disimpy_WM_Substrates.ipynb)
-- [Pull Request]()
+- [Pull Request](https://github.com/kerkelae/disimpy/pull/16#issue-1321589071)
 
 
 ## In Detail
